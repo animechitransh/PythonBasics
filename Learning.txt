@@ -1,0 +1,16 @@
+Creating virtual environment:
+    - python -m venv .venv
+    : Uppdate interpretor in virtual environment
+        - Python: Select Interpreter
+    : Open new Terminal from top toolbar
+        
+
+
+Create final package list
+    - pip freeze > requirements.txt
+Other computer install packages
+    - pip install -r requirements.txt
+
+
+
+::https://learnpython.com/blog/most-popular-python-packages/  
