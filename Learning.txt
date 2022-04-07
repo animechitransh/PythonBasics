@@ -1,6 +1,6 @@
 Creating virtual environment:
     - python -m venv .venv
-    : Uppdate interpretor in virtual environment
+    : Uppdate interpretor in virtual environment(ctrl+p) and select the interpreter in virtual env
         - Python: Select Interpreter
     : Open new Terminal from top toolbar
         
